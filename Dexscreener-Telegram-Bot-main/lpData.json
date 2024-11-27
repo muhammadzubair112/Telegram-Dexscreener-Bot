@@ -1,0 +1,200 @@
+[
+    {
+        "address": "0xa10d77a8b4fb0b3cd229ef485ffe2b86e65ae5a6",
+        "symbol": "$SILK",
+        "name": "Silk Road",
+        "decimals": "9",
+        "pool_address": "0xcbfb3cb931139bfd96e3e48df55850e43b53e941",
+        "version": 2,
+        "istoken0": true,
+        "token_price": 0.000012611385613598204,
+        "token_mcap": 1261138.5613598204
+    },
+    {
+        "address": "0x2d3590fac07b91c9451e8d16c372ece9758f040f",
+        "symbol": "rat",
+        "name": "ratsDAO",
+        "decimals": "18",
+        "pool_address": "0x1cace584e768fe624f37827529dcb94eea2e4d48",
+        "version": 2,
+        "istoken0": true,
+        "token_price": 0.000005674711282359576,
+        "token_mcap": 2837355.641179788
+    },
+    {
+        "address": "0xa3d4bee77b05d4a0c943877558ce21a763c4fa29",
+        "symbol": "ROOT",
+        "name": "The Root Network",
+        "decimals": "6",
+        "pool_address": "0xfb4492a1cd2a28d08b0b2a3ffa567342ea93776f",
+        "version": 2,
+        "istoken0": true,
+        "token_price": 0.031046686174971205,
+        "token_mcap": 372560234.09965444
+    },
+    {
+        "address": "0x039906803e4c8010c8348b280bfe980e49c975a8",
+        "symbol": "AISC",
+        "name": "AI Surf",
+        "decimals": "18",
+        "pool_address": "0x593061037d203efd1522a74de55b5dc9c2dad7b8",
+        "version": 2,
+        "istoken0": true,
+        "token_price": 0.01083521050716751,
+        "token_mcap": 1083521.050716751
+    },
+    {
+        "address": "0x8f602ee5b1f8de67120c427717cbe2770f3cf320",
+        "symbol": "STARRY",
+        "name": "STARRY",
+        "decimals": "18",
+        "pool_address": "0x1b117c931af91a298e8b91977500becc431281e7",
+        "version": 2,
+        "istoken0": true,
+        "token_price": 2.1006362805894687,
+        "token_mcap": 2100636.280589469
+    },
+    {
+        "address": "0xa4bc2b90743294e5e6fd3321a9a131947f7785db",
+        "symbol": "JEST",
+        "name": "Jester",
+        "decimals": "9",
+        "pool_address": "0x98555273b697fa2b4cf3e009403b5ae31fd2c7a1",
+        "version": 2,
+        "istoken0": true,
+        "token_price": 0.771791051768828,
+        "token_mcap": 771791.051768828
+    },
+    {
+        "address": "0x553531c45eabc2f3343d19885262ac784046fd5f",
+        "symbol": "CyOp",
+        "name": "CyOp",
+        "decimals": "18",
+        "pool_address": "0x1d2aba8e571e2e1c39b0de5fbab7b0eb7f5e0779",
+        "version": 2,
+        "istoken0": true,
+        "token_price": 0.00986791723858555,
+        "token_mcap": 986791.723858555
+    },
+    {
+        "address": "0xa704662ecb62be83f88ca1a3b5277a381cb32dce",
+        "symbol": "BUZZ",
+        "name": "Bee Tools",
+        "decimals": "18",
+        "pool_address": "0x655b02c5b6c62062a1fd1ac025283b3653fde5c4",
+        "version": 2,
+        "istoken0": true,
+        "token_price": 0.007643898208409775,
+        "token_mcap": 764389.8208409775
+    },
+    {
+        "address": "0x8cc379a292a47cb8406fb1bd8a6d98f442275f0e",
+        "symbol": "U",
+        "name": "Uranium3o8",
+        "decimals": "18",
+        "pool_address": "0x731fa473ad11d9264d1ad6e711ecf067a909e9eb",
+        "version": 3,
+        "istoken0": true,
+        "token_price": 75.3006005,
+        "token_mcap": 1506012010
+    },
+    {
+        "address": "0x8f602ee5b1f8de67120c427717cbe2770f3cf320",
+        "symbol": "STARRY",
+        "name": "STARRY",
+        "decimals": "18",
+        "pool_address": "0x998cd81a2a332c5bb13d8ee32aece738b9957098",
+        "version": 3,
+        "istoken0": true,
+        "token_price": 1.202177656633564,
+        "token_mcap": 1202177.656633564
+    },
+    {
+        "address": "0x041badf25213e5f41cdf074d9dbf5cbb29d073d6",
+        "symbol": "ETF",
+        "name": "BTC ETF",
+        "decimals": "18",
+        "pool_address": "0x53d1c32a559669e3ff6f44ebb619576b8375d617",
+        "version": 3,
+        "istoken0": true,
+        "token_price": 0.16960356387365516,
+        "token_mcap": 3561674.8413467584
+    },
+    {
+        "address": "0x39d5313c3750140e5042887413ba8aa6145a9bd2",
+        "symbol": "EMP",
+        "name": "Empyreal",
+        "decimals": "18",
+        "pool_address": "0xe092769bc1fa5262d4f48353f90890dcc339bf80",
+        "version": 3,
+        "istoken0": true,
+        "token_price": 46.93457161319174,
+        "token_mcap": 1932755.6604152764
+    },
+    {
+        "address": "0x9bf3a5ba31c5629e9b08a14cf9dc21897bfd3ec1",
+        "symbol": "BENANCE",
+        "name": "BENANCE",
+        "decimals": "18",
+        "pool_address": "0xab3f65c91bad49df8ebb4f15fc1f11655c2a78f7",
+        "version": 2,
+        "istoken0": true,
+        "token_price": 0.0007969637060423567,
+        "token_mcap": 796963.7060423567
+    },
+    {
+        "address": "0xc3960227e41c3f54e9b399ce216149dea5315c34",
+        "symbol": "CZ",
+        "name": "Changpeng Zhao",
+        "decimals": "9",
+        "pool_address": "0xa18d5eceb5fe22ee3cc228fb9c32b65adcedfa13",
+        "version": 2,
+        "istoken0": false,
+        "token_price": 0.000050841506786381194,
+        "token_mcap": 508415.067863812
+    },
+    {
+        "address": "0x8bf30e9f44e5d068a9d0c20da22660997a532e33",
+        "symbol": "GDAG",
+        "name": "GHOSTDAG",
+        "decimals": "18",
+        "pool_address": "0x9e422989f9786f05623678c681004ac93fffa1c5",
+        "version": 3,
+        "istoken0": true,
+        "token_price": 0.00019334766034768614,
+        "token_mcap": 5549077.851978593
+    },
+    {
+        "address": "0xf563ea3f3074af1b5a0f43860e419588b7cc2c92",
+        "symbol": "ELY",
+        "name": "Elysian",
+        "decimals": "18",
+        "pool_address": "0xe685bb20d79f97a5ccfb0376e42165a97300f147",
+        "version": 2,
+        "istoken0": false,
+        "token_price": 0.0011639582651486028,
+        "token_mcap": 1163958.265148603
+    },
+    {
+        "address": "0xc3960227e41c3f54e9b399ce216149dea5315c34",
+        "symbol": "CZ",
+        "name": "Changpeng Zhao",
+        "decimals": "9",
+        "pool_address": "0x7a5bef8c4b1d511bc076a416b097eea798247301",
+        "version": 3,
+        "istoken0": false,
+        "token_price": 0.00015906223261155964,
+        "token_mcap": 1590622.3261155963
+    },
+    {
+        "address": "0xfa22bbb40007f4220a2b1af517ced454c60cd23e",
+        "symbol": "BTK",
+        "name": "Bitlink",
+        "decimals": "18",
+        "pool_address": "0x8ee85ac4f831c4eb911167debf6f5d634dd32dc1",
+        "version": 2,
+        "istoken0": false,
+        "token_price": 0.0027025137711797257,
+        "token_mcap": 27025137.711797256
+    }
+]

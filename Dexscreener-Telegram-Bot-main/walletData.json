@@ -1,0 +1,716 @@
+[
+    {
+        "address": "0x2fD992C2f070C52A650c8226Fdea006AE56d0115",
+        "top_rate": 33,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x61fcdaeFC9F9f3b886EF97BFaa1eD60a4bE24008",
+        "top_rate": 36,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x5cE1bd31eC253a03F7501c23cC70Db3fc22e12a4",
+        "top_rate": 54,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x94133E3f27dd8a4F65D98406c8cfdd7ED744196b",
+        "top_rate": 61,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xaE18E0702decD80734397eB16C9D0C595D523211",
+        "top_rate": 62,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x914A480F810E987fA5eCB4302904e388C7f6a8bd",
+        "top_rate": 63,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xd407ce1D71B78C2281a4b86ff030856439796B0b",
+        "top_rate": 64,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x4Ad1eE8525EDf17A3BaA6AB086888ce10F681453",
+        "top_rate": 70,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x6BF27c1C30EbA1e2e25449428E33a72Bf681Ed92",
+        "top_rate": 71,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x8177C701F024a83de01B2c96c4dFED129934377b",
+        "top_rate": 72,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x2FB35859F2f37082c14F63ad5e2Fcecf7e1ea77a",
+        "top_rate": 77,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x8D463285B17e5465A4dcb48ae66c42cD65CF23ee",
+        "top_rate": 78,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xd8c215Ed9652a408b69D6caDFf58e4De8D459dC7",
+        "top_rate": 80,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x7B1A03e8490eed09779944c340EbC20Fe33F7711",
+        "top_rate": 82,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xFA3aa57c5140c339D580beB8e4D0bf3bB0DCC13b",
+        "top_rate": 84,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x37b6E60BF2F61eB0d1E9bF4381180f1e75Df5465",
+        "top_rate": 85,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xB2B56f50170a36122636E99a874AAaDF6fE25FFC",
+        "top_rate": 87,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x6c0Dd78f2E4f691149E7665Ce1c22b7E1965819a",
+        "top_rate": 88,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xE2Fb16B4EF6BB8efAd30cEa4ab6B626D502433A1",
+        "top_rate": 90,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x46ede9f6f9E2591c5D218684741089EeDDB76434",
+        "top_rate": 92,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xab2b506397ABb50175be54670140E7f68c41099a",
+        "top_rate": 93,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xcd4102F8899f545B19Fa1ad06A7F9F99F9de8CD0",
+        "top_rate": 94,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xFF7Af7a410A3e3047a23A52f180eB75d32e40De2",
+        "top_rate": 96,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xD0B9b0273B508D2A31aF266Df97458dF7323Ab3f",
+        "top_rate": 97,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xF3240528cBc194fBDe99e765a50ee6FE5E875CB5",
+        "top_rate": 99,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xcA13E53f70DA019f35E8C879dBa58CB0b98A40c3",
+        "top_rate": 100,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x34e8E573d66C17B5c63F63e79b5DA8D8cff20aC5",
+        "top_rate": 3,
+        "token_name": "ROOT",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xdAB49f7528838886edB5154C9F5472A93AD3dC0a",
+        "top_rate": 51,
+        "token_name": "ROOT",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xDec4CAd75E5F9Ab753f1A3F614cF7D140d2bc80e",
+        "top_rate": 59,
+        "token_name": "ROOT",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x551a60D043768901D8c192075d3beeC42EA7E449",
+        "top_rate": 63,
+        "token_name": "ROOT",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x52beCb103D36Ead293d32c0449dA70671aCc2355",
+        "top_rate": 67,
+        "token_name": "ROOT",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x7163A2373556a5D2276994B3309bB0Ae3F18B87e",
+        "top_rate": 88,
+        "token_name": "ROOT",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x491762bA9db20B152F92677d441EE7B865131F9D",
+        "top_rate": 7,
+        "token_name": "AISC",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xB5f84bD70888AdbfDa48123567Ed7f739B08483e",
+        "top_rate": 2,
+        "token_name": "U",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x1A1F9F986f1047f09d6C7BC33cA22634C8386d63",
+        "top_rate": 5,
+        "token_name": "U",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xD8e9E0F83C66Bf7d66c396D57845621652c8926a",
+        "top_rate": 8,
+        "token_name": "U",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x5A9939dEA8Db32A9c7763Cdbe8B373bB7d9A5971",
+        "top_rate": 10,
+        "token_name": "U",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xf831074BF2ff2c2e4DB8E1C5D634bE8069CD42a3",
+        "top_rate": 11,
+        "token_name": "U",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x11EBD686068CAb02cF4F9dEf6Def02C6087929A3",
+        "top_rate": 13,
+        "token_name": "U",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x8a81c63e21e430c925cff27A2B6533E519e6e49f",
+        "top_rate": 75,
+        "token_name": "STARRY",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x78A6a2A7a11272b4E52ED75590a1616D963372b1",
+        "top_rate": 80,
+        "token_name": "STARRY",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x85e8Bdf312281CAeBdB826073Eb59863C5c48078",
+        "top_rate": 18,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x18DDb8c353229a94f0C98A614510cFb207836eCc",
+        "top_rate": 19,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x79b9eB87373DC1D26d494aF563F0e3f7cE160238",
+        "top_rate": 25,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x59558E558923B93cf51E88BC9EE74f1d9d32729C",
+        "top_rate": 41,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x9791b61AB9A63524f54512d9AdF850913B841e9b",
+        "top_rate": 45,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xf70C6D94e8B54e3f1d4332d9848346aB406a591D",
+        "top_rate": 48,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x7Af89d6A8742d9aD9297CBd89bAe513C46EB38CB",
+        "top_rate": 49,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xAb94F4228467fD537C0719EbE7419fC5CD06f7e0",
+        "top_rate": 50,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xd7bd8ce3A552841C63D16de5a5115D77B6641517",
+        "top_rate": 52,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x94829d90bdC17C3Ce29FbD8Ed8B783b84B10e8B1",
+        "top_rate": 53,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x3a1f592C28cfe971706c9679B7e462d7065a512f",
+        "top_rate": 55,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xE5Af58Cbd2a852599A74c429Aa10937656cffA13",
+        "top_rate": 56,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x936A475a884c40A266994Be1312f189bd9C97358",
+        "top_rate": 59,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x68EAA4df0c1B4d138dD870F61Fff88097fC9449C",
+        "top_rate": 62,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xcD3368B9ff7E52cF421C19201739ACa973d11704",
+        "top_rate": 63,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xE77c0F02963a4B3D3b58F6A163A6142E31a9C007",
+        "top_rate": 65,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x5512f9747F1CED20D4E9A8c40b5a7970293BDb72",
+        "top_rate": 67,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x9a93110b2cDa0A77608DA975355546CC1513A86D",
+        "top_rate": 70,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x10E77E567f8E1bea068415ec4e84ddA877C0BCa7",
+        "top_rate": 71,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x97514B2b6Fa11ef78a522ceB7756568364a9A230",
+        "top_rate": 72,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x9F99502172B270949Ff0086a1AE5402018692ABb",
+        "top_rate": 74,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x30Fe0E508047313976611Ab5E56273802Ac9326f",
+        "top_rate": 76,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x8B2d3C8E069C24806c150C266a6c4Ae5f6e194c2",
+        "top_rate": 77,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x3702511042E1Db74fB1ce84048A457EecC9eFfb5",
+        "top_rate": 80,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xAF0CCEAeBd02f5607E4Bbb5CF64AE8203659a938",
+        "top_rate": 81,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x3Bfa70149dc301A5c1eC912911D6a04fa9ADF387",
+        "top_rate": 82,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xe562Fb4A48707b66628495eF8997044f6e61f959",
+        "top_rate": 83,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x5E6D3ed51DD733736DC80dfD209c1d63BA977C2d",
+        "top_rate": 84,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xb48D0659616A634Fc41DcD4900c2beE5bC9Cbd74",
+        "top_rate": 85,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xF52A9f7746ED9Fd055131583f705614de33a1148",
+        "top_rate": 87,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xa65f6dC954cf0c12f8e86279941Bfe90F35eBA7c",
+        "top_rate": 92,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x4cf5574Afc07CB2E1B05c2D42F3F5Db96A62B46e",
+        "top_rate": 94,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x27DD5a1BbCaEc8EbEf44F4BC7880c8D964B05C75",
+        "top_rate": 95,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x0842A151BdaAE12319e1dA061ADa78818fe7015F",
+        "top_rate": 96,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xcDbefDB641d645fea30257d16E8A1b100a077741",
+        "top_rate": 98,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x1c087d99b2f87b8A3cc33f2c9ff73869FA2974C9",
+        "top_rate": 100,
+        "token_name": "ETF",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xd398Af95e56669E01a666632C853C0aD01bd1bdF",
+        "top_rate": 87,
+        "token_name": "EMP",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xd459cC2e1b04d6e577321f4C021bf0Aed4524355",
+        "top_rate": 91,
+        "token_name": "U",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xfF81D30aEd9312Ba6FEfC8c492214a711385C0c9",
+        "top_rate": 15,
+        "token_name": "U",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xDf3e9703cAf052c8D4839b7427e133585A4Acc3B",
+        "top_rate": 29,
+        "token_name": "GDAG",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x206566B3408Bfc65333744Ec4D495a13b73Fb53c",
+        "top_rate": 35,
+        "token_name": "GDAG",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x11e3Af7bB39CdB75Dfacb6845fE81be300466cE8",
+        "top_rate": 37,
+        "token_name": "GDAG",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x28c6506a93f4cB98a5efCd9977fA616303dAaF6C",
+        "top_rate": 44,
+        "token_name": "CZ",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x9D31Fe88606d7CB4d4082182977d0Bb16389b9a0",
+        "top_rate": 30,
+        "token_name": "CZ",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xab115B42BC2C5Ba1C8F33E3cA0e69E47C40Cd76A",
+        "top_rate": 34,
+        "token_name": "CZ",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x7A2e6453EFf7E48071967Bc70ba6d773949E655A",
+        "top_rate": 36,
+        "token_name": "CZ",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x05E99D22C164A8647d406fA52895bd892004c63f",
+        "top_rate": 37,
+        "token_name": "CZ",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xC3D0DFe5585a943c90357dEB1A765975665f44fF",
+        "top_rate": 43,
+        "token_name": "CZ",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x54Fcf70e08d50bef7D8450A67e2E13a64Fc5ca16",
+        "top_rate": 46,
+        "token_name": "CZ",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xdF1b160a3e048ba1C7325Cf2c09b14C836e54679",
+        "top_rate": 48,
+        "token_name": "CZ",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x3484228d3944aD516970e761F35b6312ADaC0725",
+        "top_rate": 49,
+        "token_name": "CZ",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x5624Ee75B1aFB8A176c75884a6B72A3097BA400A",
+        "top_rate": 58,
+        "token_name": "CZ",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x5DE2B2654e18756aEF79D62287faB3D1057D605b",
+        "top_rate": 66,
+        "token_name": "CZ",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x654e1fc8f070B8b793fC92bF77EB84e782a4b20e",
+        "top_rate": 93,
+        "token_name": "rat",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xc29Fb1653d08862de7a4E590b0F3435AF05A2f62",
+        "top_rate": 54,
+        "token_name": "U",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x8b7A2618e720FBF98E5A2bcFf357c77c8Ac5b4e8",
+        "top_rate": 98,
+        "token_name": "CZ",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0x06D15F5a4EeAcba399da1F2Ee2242076f2c42922",
+        "top_rate": 19,
+        "token_name": "BTK",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xE8691e25dfCa7217e17D264a15DfE9530E13fEbC",
+        "top_rate": 20,
+        "token_name": "BTK",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xcd9F3b60AA7A5aaaF948e8f43CD1B1704e1E9df1",
+        "top_rate": 28,
+        "token_name": "BTK",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xBee53DF7495Bf05DA79E85d0179990bEE68c157B",
+        "top_rate": 38,
+        "token_name": "BTK",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    },
+    {
+        "address": "0xf3059e042F5490f4e6fB2Fb19D78cB587135cad3",
+        "top_rate": 43,
+        "token_name": "BTK",
+        "profit_rate": 0,
+        "reason": "Fresh wallet in Top trades"
+    }
+]
